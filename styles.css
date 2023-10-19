@@ -1,0 +1,28 @@
+
+h1{ 
+    color: saddlebrown;
+    background-color: aliceblue;
+}
+
+button{
+    color: #66656f;
+    background-color: rgb(113, 9, 218);
+    width: 100px;
+    height: 50px;
+
+}
+
+button:hover{
+    color:rgb(113, 9, 218) ;
+    background-color: #66656f;
+}
+
+h1:hover{
+    color: aliceblue;
+    background-color: saddlebrown;
+}
+
+.diferente{
+    color: blue;
+    background-color: rebeccapurple;
+}
